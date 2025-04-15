@@ -4,3 +4,4 @@ node_modules/
 average-calculator/
 social-media-analytics/.env
 social-media-analytics/.env
+.env
